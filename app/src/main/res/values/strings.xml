@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCountries</string>
+    <string name="arg_country">country</string>
+</resources>
